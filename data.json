@@ -1,0 +1,46 @@
+{
+	"basicdetails":{
+		"image":"sufi.jpg",
+		"name":"manusufi",
+		"email":"chennadivya159@gmail.com",
+		"phone":"8888888827",
+		"address":"18-8,guntur"
+	},
+"education":[
+	{
+	"course":"B.tech(C.S.E)",
+	"college":"vignan nirula college",
+    "percentage":"70%"
+},
+{
+	"course":"(mpc)",
+	"college":"srichaitanya",
+	"percentage":"70"
+},
+{
+	"course":"ssc",
+	"college":"bhashyam school",
+	"percentage":"77"
+}
+],
+"skills":[
+	{
+		"name":"operating systems",
+		"value":"Windows,Linux,MAC"
+	},
+	{
+		"name":"programming language",
+		"value":"c,c++,java,python"
+	}
+],
+"carrier":{
+	"ca":"I am using skills for the growth of organization"
+},
+"Achevements":[
+	"I got first prize in ludo in my college",
+	"I got second prize in throw ball in college"
+],
+"Description":{
+	"des" :"I here  my concern"
+}
+}
